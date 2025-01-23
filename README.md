@@ -3,6 +3,31 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li>안녕하세요 백엔드 개발자 강문군입니다! </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🗂️ History </h2>  
+    <table>
+        <thead>
+            <tr>
+                <th>기간</th>
+                <th>활동</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2020.03 ~ </td>
+                <td>홍익대학교(서울) 컴퓨터공학과 재학</td>
+            </tr>
+            <tr>
+                <td>2024.09 ~ 2024.12</td>
+                <td>GDSC hongik 초급 백엔드 스터디</td>
+            </tr>
+            <tr>
+                <td>2025.01 ~ 2025.01</td>
+                <td>Blaybus 실전 앱 개발 경진대회 백엔드 참여</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
