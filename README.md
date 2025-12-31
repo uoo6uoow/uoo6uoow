@@ -26,7 +26,11 @@
             </tr>
             <tr>
                 <td>2025.07 ~ 2025.12</td>
-                <td>주식회사 Fincatch 현장실습 (OMS Science Cell / Financial ssoftware Manaver) </td>
+                <td>주식회사 Fincatch 현장실습 (OMS Science Cell / Financial software Manaver) </td>
+            </tr>
+            <tr>
+                <td>2025.12 ~ </td>
+                <td>신한투자증권 프로디지털아카데미 7기 </td>
             </tr>
         </tbody>
     </table>
