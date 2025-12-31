@@ -26,7 +26,7 @@
             </tr>
             <tr>
                 <td>2025.07 ~ 2025.12</td>
-                <td>주식회사 Fincatch 현장실습 (OMS Science Cell / Financial ssoftware Manaver)/tdt
+                <td>주식회사 Fincatch 현장실습 (OMS Science Cell / Financial ssoftware Manaver) </td>
             </tr>
         </tbody>
     </table>
