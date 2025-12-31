@@ -7,8 +7,8 @@
   <table>
     <thead>
       <tr>
-        <th>기간</th>
-        <th>활동</th>
+        <th>- 기간 -</th>
+        <th> - 활동 - </th>
       </tr>
     </thead>
     <tbody>
