@@ -24,6 +24,10 @@
                 <td>2025.01 ~ 2025.01</td>
                 <td>Blaybus 실전 앱 개발 경진대회 백엔드 참여</td>
             </tr>
+            <tr>
+                <td>2025.07 ~ 2025.12</td>
+                <td>주식회사 Fincatch 현장실습 (OMS Science Cell / Financial ssoftware Manaver)/tdt
+            </tr>
         </tbody>
     </table>
 </div>
