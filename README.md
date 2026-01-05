@@ -1,6 +1,6 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Introduce</h2>
-  <div>안녕하세요 저는 천재 개발자 강문군입니다</div>
+  <div>안녕하세요 저는 천재 개발자 강문군입니다!</div>
 </div>
 
 <div style="text-align: left;">
