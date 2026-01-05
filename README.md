@@ -1,6 +1,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Introduce</h2>
 </div>
+  안녕하세요,
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🗂️ History</h2>
