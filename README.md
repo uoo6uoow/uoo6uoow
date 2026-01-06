@@ -4,11 +4,11 @@
 </div>
 
   <h4 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Focus On</h4>
-  <div> 단순함: 모두가 이해하기 쉬운 구조, 사용성</div>
+  <li> 단순함: 모두가 이해하기 쉬운 구조, 사용성</li>
   
   
   <h4 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Like</h4>
-  <div> 런닝, 테니스, 요리 </div>
+  <li> 런닝, 테니스, 요리 </li>
   
 
 <div style="text-align: left;">
