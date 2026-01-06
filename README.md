@@ -8,7 +8,7 @@
   
   
   <h4 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Like</h4>
-    <div> 런닝, 테니스, 요리 </div>
+    <div> 런닝, 테니스, 요리, 평양냉면 </div>
   
 
 <div style="text-align: left;">
