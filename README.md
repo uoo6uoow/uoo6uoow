@@ -2,7 +2,7 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Introduce</h2>
   의도를 전달할 수 있는 사람을 목표로 하는 강문군입니다!
 </div>
-  <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Focus On</h3>
+  <h4 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Focus On</h4>
   단순함: 모두가 이해하기 쉬운 구조, 사용성
 
   
